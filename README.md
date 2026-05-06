@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Web Development using the MERN Stack at Vector India, Hyderabad.<br><br>💻 I enjoy building web applications and improving my programming skills.<br><br>👯 I’m looking to collaborate on Web Development and Open Source projects.<br><br>🤝 I’m looking for help with improving my Backend development skills.<br><br>💬 Ask me about JavaScript, Python, MERN Stack, and Web Development.<br><br>⚡ Fun fact: I enjoy solving coding problems and building web applications.
+🎓 Final-year Engineering Student preparing for Software Engineer roles<br><br> 🌱 Currently learning Full Stack Development (MERN Stack)<br><br> 💡 Strong focus on Data Structures, JavaScript, and Backend Development<br><br> 🚀 Building projects to improve real-world problem-solving skills<br><br> 🤝 Open to collaboration on Web Development & Open Source<br><br>💬 Ask me about JavaScript, Python, React, Node.js
 
 
 ## 🌐 Socials:
