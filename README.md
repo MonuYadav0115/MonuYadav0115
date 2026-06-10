@@ -20,6 +20,6 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jatly&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=MonuYadav0115&theme=github-dark)
 ---
 
